@@ -12,19 +12,19 @@ it can help supplement your notes.
 **Without running the program**, predict what its behavior is.
 
 1. What will the program output when it is run?
-    >  your answer
+    >  Asks user for side lengths of square.
 
 2. What do you think the words `public` and `private` mean?
-    > your answer
+    > Private means it would be localized to the single file, while public allows it to be mentioned and used in other fils.
 
 3. How are the files `ShapeDriver.java` and `Square.java` related? 
-    > your answer
+    > ShapeDriver gets the inout, while Square works on calculating and possibly later on outputting the values.
 
 4. There is no method definition for `Square()`. Do you think the code will compile? 
-    > your answer
+    > Yes since it is a class and does not require a definition. 
 
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > your answer
+    > They help return the value of the side inputed and the set side sets the variable
 
 ## Run
 Run the program. 
