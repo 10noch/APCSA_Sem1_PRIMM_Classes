@@ -29,10 +29,10 @@ it can help supplement your notes.
 ## Run
 Run the program. 
 1. What is the output?
-    > your answer
+    > It printed out Side: 1.00
 
 2. Did your prediction agree with the output? Explain where it may have differed.
-    > your answer
+    > Not exactly, I had the general idea of the square generation, but it doesn't take any input from the user
 
 ## Investigate
 In this section, your instructor will alternate between explaining topics and tackling a `TODO` in the Modify section.

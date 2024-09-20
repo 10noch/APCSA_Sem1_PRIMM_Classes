@@ -1,8 +1,8 @@
 /**
  * Implements a class that encapsulates data and methods for representing a square
- * @author 
+ * @author Sonam Sherpa
  * @version 1.0
- * @since 2024-09-
+ * @since 2024-09-20
  */
 import java.lang.Math;
 
